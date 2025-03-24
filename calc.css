@@ -1,0 +1,28 @@
+main{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+input{
+    width:320px;
+    border:2px solid black;
+    padding: 10px 0px;
+    margin: 2px;
+    font-size: 22px;
+}
+.row{
+    display:flex;
+    height:80px;
+    justify-content: center;
+}
+
+.button{
+    width:70px;
+    border:2px solid black;
+    padding: 2px 2px;
+    margin: 2px 2px;
+    text-align: center;
+    cursor: pointer;
+}
